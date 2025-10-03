@@ -1,37 +1,35 @@
-👋 Hi there! I'm Amit Kumar Mandal!
+👋 Hi, I'm Amit Kumar Mandal
+🎓 B.Tech CSE Student @ VIT Chennai (2022–2026)
+💻 Aspiring Data Scientist | Software Engineer | AI/ML Enthusiast
+🌱 Passionate about Machine Learning, Generative AI, and Full-Stack Development
+________________________________________
+🚀 About Me
+  🔬 I enjoy building end-to-end AI/ML solutions – from data preprocessing to model deployment.
+  ⚡ Experienced in time series forecasting, recommender systems, NLP, and computer vision.
+  🌍 I love solving real-world problems with data and scalable software.
+  📈 Currently exploring Generative AI, RAG pipelines, and cloud-native AI solutions.
+________________________________________
+🔨 Tech Stack
+  Languages: Python, SQL, C, C++, Java, JavaScript, R
+  Frameworks & Libraries: TensorFlow, Scikit-learn, LangChain, Node.js, React.js, Express.js
+  Cloud & Tools: Microsoft Azure, AWS, Git/GitHub, Firebase, Power BI, Tableau
+  Other Skills: Data Preprocessing, Feature Engineering, Model Deployment, Time Series, RAG
+________________________________________
+📌 Featured Projects
+  🏠 Home AI Device Control – AI-powered RAG chatbot with LangChain + Streamlit to control smart home devices.
+  🩺 Skin Disease Detection – DenseNet-121 based deep learning model for skin disease classification (87% accuracy).
+  ⚡ Energy Consumption Prediction – LSTM time series forecasting model (MAE = 0.4).
+  🏏 Cricket Analytics & Prediction – End-to-end cricket analysis platform with XGBoost (98.6% score prediction).
+  🎮 Game Recommendation System – Content-based recommender with Hit Rate@10 = 0.85, deployed on Streamlit.
+________________________________________
+📜 Certifications
+  •	Microsoft Azure AI Fundamentals
+  •	IBM Databases and SQL for Data Science with Python (Coursera)
+  •	Data Science Bootcamp (Udemy)
+________________________________________
+📫 Let’s Connect!
+📧 amitkr123069@gmail.com
+🔗 LinkedIn : https://www.linkedin.com/in/amit-kumar-mandal-9a2817278/
+________________________________________
+✨ “Turning data into insights, and insights into impact.” ✨
 
-🔍 Aspiring Data Analyst and Software Engineer
-
-I'm passionate about uncovering insights from data and building robust software solutions to solve real-world problems. With a strong foundation in both data analysis and software development, I'm dedicated to leveraging technology to drive innovation and efficiency.
-
-🛠 My Projects:
-
-  Cricket Analysis and Winner Prediction: Developed a project to analyze cricket matches and predict winners using statistical models and machine learning techniques.
-  Game Recommender System: Built a game recommender system utilizing clustering and various algorithms to suggest games tailored to user preferences.
-  Email/SMS Spam Classifier: Created a classifier to differentiate between spam and legitimate messages, enhancing communication security and efficiency.
-📊 Technical Skills:
-
-  Data Analysis & Visualization: Experienced in analyzing large datasets and creating compelling visualizations using Plotly Express, with a preference for radar charts        to represent metrics of varying magnitudes.
-  Machine Learning: Proficient in building predictive models and classifiers.
-  Software Development: Skilled in developing robust software solutions, with experience in various programming languages and frameworks.
-  Project Management: Proficient in using ProjectLibre to create Gantt charts for effective project planning and tracking.
-  Cloud Computing: Certified in Microsoft Azure AI Fundamentals, with a strong understanding of cloud-based AI solutions.
-💡 Tools & Technologies:
-
-  Python, Pandas, NumPy
-  Plotly Express
-  Scikit-learn, TensorFlow
-  SQL
-  Java, C++, JavaScript
-  ProjectLibre
-  Microsoft Azure
-🌱 What I'm Currently Learning:
-
-  Advanced machine learning techniques
-  Big data technologies and frameworks
-  Full-stack development and cloud-native applications
-📫 Get in Touch:
-
-  LinkedIn: www.linkedin.com/in/amit-kumar-mandal-9a2817278
-  Email: amitkr123069@gmail.com
-I'm always open to new opportunities and collaborations, so feel free to reach out!
